@@ -9,5 +9,7 @@ venv/
 
 src/__pycache__
 
-.DS_Store
-src/.DS_Store
+.DS_Store/
+src/.DS_Store/
+
+.gitignore
