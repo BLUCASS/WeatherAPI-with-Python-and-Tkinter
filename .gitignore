@@ -1,15 +1,13 @@
+# Environment variables
 .env
 *.env
 
+# Python
 __pycache__/
 *.py[cod]
 
+# Virtual environments
 venv/
-.env
 
-src/__pycache__
-
-.DS_Store/
-src/.DS_Store/
-
-.gitignore
+# macOS
+.DS_Store
